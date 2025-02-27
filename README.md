@@ -18,9 +18,9 @@ This repository contains the MATLAB/C++ code, data analysis scripts used to deve
 
 ## 📂 Repository Structure
 ```text
-/Glass-to-Fluid-Solid-tumors
-│── code/         # MATLAB & Python scripts for simulations
-│   ├── jupyter_notebook/   # MATLAB-specific scripts
+/High-dimensional-unsupervised-dynamical-clustering.
+│── code/         
+│   ├── jupyter_notebook/  
 │── requirements.txt
 │── README.md     # Project documentation
 │── LICENSE       # Licensing information
